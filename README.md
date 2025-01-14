@@ -20,7 +20,7 @@ Anticipated Graduation: May 2025 | GPA: 3.7/4.0
 
 **Bachelor of Technology in Computer Science & Engineering**  
 Jawaharlal Nehru Technological University, Hyderabad, Telangana  
-Graduation: July 2023 | GPA: 3.38/4.0  
+Graduation: July 2023 | GPA: 3.4/4.0  
 
 ---
 
