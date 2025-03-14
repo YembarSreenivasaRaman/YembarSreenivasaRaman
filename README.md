@@ -35,6 +35,7 @@ Graduation: July 2023 | GPA: 3.4/4.0
 ---
 
 ## 📜 Certifications  
+- **Tableau Desktop Specialist** - Tableau, Mar 2025 
 - **AWS Certified Cloud Practitioner** - Amazon Web Services, Mar 2024  
 - **Python for Data Analysis** - Great Learning, Jan 2024  
 - **Career Essentials in Data Analysis** - Microsoft & LinkedIn, Nov 2023  
