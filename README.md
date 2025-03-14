@@ -44,12 +44,15 @@ Graduation: July 2023 | GPA: 3.4/4.0
 
 ## 🚀 Relevant Projects  
 - **[Movie Recommendation System](https://github.com/YembarSreenivasaRaman/Movie-Recommendation-System)**
+
   *Built a smart movie recommendation system using Python, TF-IDF, and collaborative filtering to provide accurate movie suggestions with an interactive search tool.*
   
 - **[Twitter Sentiment Analysis](https://gist.github.com/YembarSreenivasaRaman/8a5a216dc8de709e4f9223277cafa20f)**  
+
   *Developed a Twitter Sentiment Analysis pipeline using Python and NLP to classify tweets as positive, negative, or neutral during major events.*  
 
 - **[Automation of Grading System]**  
+
   *Built a scalable web solution to automate grading and reporting for 200+ students, enhancing accessibility and reducing report generation time.*  
 
 ---
